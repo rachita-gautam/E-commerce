@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "23166800030",
+    "firebase_url": "https://let-s-bake-f072b.firebaseio.com",
+    "project_id": "let-s-bake-f072b",
+    "storage_bucket": "let-s-bake-f072b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23166800030:android:2d5af302ee1c9df96deb8f",
+        "android_client_info": {
+          "package_name": "com.example.e_commerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "23166800030-a11i6aj7h9b10894s2ovqhkl7g9jhnc1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCa1NRFZO5lcCAzoYq2a6Ad_9Qnpuy-1RA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "23166800030-a11i6aj7h9b10894s2ovqhkl7g9jhnc1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
