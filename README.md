@@ -6,4 +6,4 @@ A new Flutter application.
 
 The goal of this application is to create a beautiful app layout with flutter widgets.
 
-![ ](nameofgif.gif)
+![ ](E-commerce gif.gif)
